@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuke Li"
-description              : "I'm currently a master student in UESTC, the expected graduation date is 30 June 2024. I've recieved my bacholer at SCU in 2021."
+# description              : "I'm currently a master student in UESTC, the expected graduation date is 30 June 2024. I've recieved my bacholer at SCU in 2021."
 repository               : "liyuke65535/liyuke65535.github.io"
 google_scholar_stats_use_cdn : true
 
