@@ -40,7 +40,7 @@ Hao Ni, **Yuke Li**, Lianli Gao, Heng Tao Shen, Jingkuan Song*
 </div>
 </div>
 
-- [Part-Aware-Transformer]([https://github.com/liyuke65535/Part-Aware-Transformer]), **ICCV 2023**
+- [Part-Aware-Transformer](https://github.com/liyuke65535/Part-Aware-Transformer), **ICCV 2023**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,7 +54,7 @@ Hao Ni, **Yuke Li**, Lianli Gao, Heng Tao Shen, Jingkuan Song*
 </div>
 </div>
 
-- [Style-Controllable-Generalized-Person-Re-identification]([https://github.com/liyuke65535/Style-Controllable-Generalized-Person-Re-identification]), **ICCV 2023**
+- [Style-Controllable-Generalized-Person-Re-identification](https://github.com/liyuke65535/Style-Controllable-Generalized-Person-Re-identification), **ICCV 2023**
 
 <!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
