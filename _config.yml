@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuke Li"
-# description              : "I'm currently a master student in UESTC, the expected graduation date is 30 June 2024. I've recieved my bacholer at SCU in 2021."
+description              : ""
 repository               : "liyuke65535/liyuke65535.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuke Li"
   avatar           : "images/avatar_mount_emei.jpg"
-  bio              : "master in UESTC, bachelor in SCU"
+  bio              : "master in UESTC\\bachelor in SCU"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
