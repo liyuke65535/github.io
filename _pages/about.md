@@ -65,7 +65,7 @@ Hao Ni, **Yuke Li**, [Lianli Gao](https://lianligao.github.io/), Heng Tao Shen, 
 <!-- ICCV 2023 -->
 
 # 🎖 Honors and Awards
-- *2023.10* Excellent Postgraduate Student, provided by UESTC.
+- *2023.10* Excellent Postgraduate Student, provided by UESTC
 - *2023.10* Academic First Prize Scholarship, provided by UESTC
 - *2020.10* Individual Scholarship, provided by SCU
 
