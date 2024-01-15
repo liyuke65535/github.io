@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuke Li (李钰科)"
+title                    : "Yuke Li"
 description              : ""
 repository               : "liyuke65535/liyuke65535.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuke Li"
+  name             : "Yuke Li (李钰科)"
   avatar           : "images/avatar_mount_emei.jpg"
   bio              : "master in UESTC"
   location         : "Chengdu, China"
