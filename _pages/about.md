@@ -45,7 +45,7 @@ E-mail: liyuke65535\<at\>gmail.com;
 </div>
 </div>
 
-- [Style-Controllable-Generalized-Person-Re-identification](https://github.com/liyuke65535/Style-Controllable-Generalized-Person-Re-identification), **ICCV 2023**
+- [Style-Controllable-Generalized-Person-Re-identification](https://github.com/liyuke65535/Style-Controllable-Generalized-Person-Re-identification), **ACM MM 2023**
 <!-- ACM MM 2023 -->
 
 <!-- ICCV 2023 -->
