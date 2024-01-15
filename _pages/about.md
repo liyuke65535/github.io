@@ -38,7 +38,7 @@ E-mail: liyuke65535\<at\>gmail.com;
 
 [Style-Controllable Generalized Person Re-identification](https://dl.acm.org/doi/abs/10.1145/3581783.3611802)
 
-**Yuke Li**, Jingkuan Song*, Hao Ni, Heng Tao Shen
+**Yuke Li**, [Jingkuan Song](https://jingkuansong.github.io/)*, Hao Ni, Heng Tao Shen
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
@@ -54,7 +54,7 @@ E-mail: liyuke65535\<at\>gmail.com;
 
 [Part-Aware Transformer for Generalizable Person Re-identification](https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf)
 
-Hao Ni, **Yuke Li**, Lianli Gao, Heng Tao Shen, Jingkuan Song*
+Hao Ni, **Yuke Li**, [Lianli Gao](https://lianligao.github.io/), Heng Tao Shen, [Jingkuan Song](https://jingkuansong.github.io/)*
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
