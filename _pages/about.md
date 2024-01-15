@@ -70,7 +70,7 @@ Hao Ni, **Yuke Li**, [Lianli Gao](https://lianligao.github.io/), Heng Tao Shen, 
 - *2020.10* Individual Scholarship, provided by SCU
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, master in Center for Fututer Media (CFM), University of Electronic Science and Technology of China (UESTC). 
+- *2021.09 - 2024.06 (now)*, master in pCenter for Fututer Media (CFM)](https://cfm.uestc.edu.cn/), University of Electronic Science and Technology of China (UESTC). 
 - *2017.09 - 2021.06*, bachelor in Computer Science and Technology, Computer School, Sichuan University (SCU). 
 
 <!-- # 💬 Invited Talks
