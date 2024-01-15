@@ -32,7 +32,7 @@ E-mail: liyuke65535\<at\>gmail.com;
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv23_fram.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Part-Aware Transformer for Generalizable Person Re-identification](https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf)
@@ -46,7 +46,7 @@ Hao Ni, **Yuke Li**, Lianli Gao, Heng Tao Shen, Jingkuan Song*
 
 - [Part-Aware-Transformer](https://github.com/liyuke65535/Part-Aware-Transformer), **ICCV 2023**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/method.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/mm_method.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Style-Controllable Generalized Person Re-identification](https://dl.acm.org/doi/abs/10.1145/3581783.3611802)

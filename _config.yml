@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuke Li"
   avatar           : "images/avatar_mount_emei.jpg"
-  bio              : "master in UESTC\\bachelor in SCU"
+  bio              : "master in UESTC"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/liyuke65535"
   google_plus      :
   keybase          :
   instagram        :
