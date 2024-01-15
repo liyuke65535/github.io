@@ -21,7 +21,7 @@ redirect_from:
 
 Welcome!
 
-I'm currently a postgraduate student under the supervision of [Lianli Gao](https://lianligao.github.io/) and [Jingkuan Song](https://jingkuansong.github.io/) from UESTC. My research interest mainly focuses on Person Re-identification. I have published 2 papers at the top international AI conferences: ICCV 2023 and ACM MM 2023. <!--with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
+I'm currently a postgraduate student under the supervision of Prof. [Lianli Gao](https://lianligao.github.io/) and Prof. [Jingkuan Song](https://jingkuansong.github.io/) from UESTC. My research interest mainly focuses on Person Re-identification. I have published 2 papers at the top international AI conferences: ICCV 2023 and ACM MM 2023. <!--with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 E-mail: liyuke65535\<at\>gmail.com;
 
