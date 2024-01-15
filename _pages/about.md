@@ -71,7 +71,7 @@ Hao Ni, **Yuke Li**, Lianli Gao, Heng Tao Shen, Jingkuan Song*
 
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, master in Center for Fututer Media (CFM), University of Electronic Science and Technology of China (UESTC). 
-- *2017.09 - 2021.06*, Computer Science and Technology, Computer School, Sichuan University (SCU). 
+- *2017.09 - 2021.06*, bachelor in Computer Science and Technology, Computer School, Sichuan University (SCU). 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
