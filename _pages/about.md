@@ -45,7 +45,7 @@ E-mail: liyuke65535\<at\>gmail.com;
 </div>
 </div>
 
-- [Style-Controllable-Generalized-Person-Re-identification](https://github.com/liyuke65535/Style-Controllable-Generalized-Person-Re-identification), **ACM MM 2023**
+- [Style-Controllable-Generalized-Person-Re-identification](https://github.com/liyuke65535/Style-Controllable-Generalized-Person-Re-identification), **ACM International Conference on Multimedia (ACM MM), 2023**
 <!-- ACM MM 2023 -->
 
 <!-- ICCV 2023 -->
@@ -61,7 +61,7 @@ Hao Ni, **Yuke Li**, [Lianli Gao](https://lianligao.github.io/), Heng Tao Shen, 
 </div>
 </div>
 
-- [Part-Aware-Transformer](https://github.com/liyuke65535/Part-Aware-Transformer), **ICCV 2023**
+- [Part-Aware-Transformer](https://github.com/liyuke65535/Part-Aware-Transformer), **IEEE/CVF International Conference on Computer Vision (ICCV), 2023**
 <!-- ICCV 2023 -->
 
 # 🎖 Honors and Awards
