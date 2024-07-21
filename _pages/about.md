@@ -67,8 +67,10 @@ Hao Ni, **Yuke Li**, [Lianli Gao](https://lianligao.github.io/), Heng Tao Shen, 
 # 🎖 Honors and Awards
 - *2024.7* 1st Place Winner in [MMVRAC](https://sutdcv.github.io/MMVRAC/) (Person ReID track), provided by ICME 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMVRAC ReID</div><img src='images/person reidentification 1 - hao ni, yuke li, ping_00.png' alt="sym" width="100%"></div></div>
+  
 - *2024.7* 1st Place Winner in [MMVRAC](https://sutdcv.github.io/MMVRAC/) (Attribute Recognition track), provided by ICME 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMVRAC ReID</div><img src='images/attribute recognition 1 - hao ni, ping lai, yuke_00.png' alt="sym" width="100%"></div></div>
+  
 - *2023.10* Excellent Postgraduate Student, provided by UESTC
 - *2023.10* Academic First Prize Scholarship, provided by UESTC
 - *2020.10* Individual Scholarship, provided by SCU
