@@ -40,6 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* font style for all elements */
+* {
+    font-family: 'Arial', sans-serif;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
