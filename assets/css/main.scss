@@ -40,7 +40,10 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* font style for all elements */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
 * {
     font-family: 'Arial', sans-serif;
 }
