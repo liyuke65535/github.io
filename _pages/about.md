@@ -32,6 +32,23 @@ E-mail: liyuke65535\<at\>gmail.com;
 
 # 📝 Publications 
 
+<!-- ICMEW 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMEW 2024</div><img src='images/icmew_method.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Attribute Vision Transformer for UAV-Human Re-Identification](https://ieeexplore.ieee.org/abstract/document/10645408/)
+
+Hao Ni, **Yuke Li**, Ping Lai, Pengpeng Zeng, Hangyu Guo, Lianli Gao
+
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+</div>
+</div>
+
+- Code: [Style-Controllable-Generalized-Person-Re-identification](https://github.com/liyuke65535/Style-Controllable-Generalized-Person-Re-identification), **ACM International Conference on Multimedia (ACM MM), 2023**
+<!-- ICMEW 2024 -->
+
+
 <!-- ACM MM 2023 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/mm_method.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
