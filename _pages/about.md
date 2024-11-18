@@ -45,7 +45,7 @@ Hao Ni, **Yuke Li**, Ping Lai, Pengpeng Zeng, Hangyu Guo, Lianli Gao
 </div>
 </div>
 
-- Code: [Style-Controllable-Generalized-Person-Re-identification](https://github.com/liyuke65535/Style-Controllable-Generalized-Person-Re-identification), **ACM International Conference on Multimedia (ACM MM), 2023**
+- Code: [Attribute Vision Transformer for UAV-Human Re-Identification](https://github.com/liyuke65535/MMVRAC-reid), **IEEE International Conference on Multimedia and Expo Workshops (ICMEW)), 2024**
 <!-- ICMEW 2024 -->
 
 
