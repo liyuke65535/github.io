@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yuke Li"
 description              : ""
-# repository               : "liyuke65535/liyuke65535.github.io"
+repository               : "liyuke65535/liyuke65535.github.io" # rename the repo
 google_scholar_stats_use_cdn : true
 
 # google analytics
