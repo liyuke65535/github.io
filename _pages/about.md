@@ -26,11 +26,14 @@ I'm currently a postgraduate student under the supervision of Prof.[Jingkuan Son
 E-mail: liyuke65535\<at\>gmail.com;
 
 
-<!--# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# 📝 Publications 
+# 🔥 News
+- *2024.07*: &nbsp;📜 Two papers were accepted by ICMEW 2024. 
+- *2024.05*: &nbsp;🥇 1st place winner of Person Re-Identification track and Attribute Recognition track in ICME 2024 MMVRAC Challenge. 
+<!-- - *2021.02*: &nbsp;🎉🎙️ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+
+# 📝 Selected Publications 
 
 <!-- ICMEW 2024 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMEW 2024</div><img src='images/icmew_method.png' alt="sym" width="100%"></div></div>
@@ -45,7 +48,7 @@ Hao Ni, **Yuke Li**, Ping Lai, Pengpeng Zeng, Hangyu Guo, Lianli Gao
 </div>
 </div>
 
-- Code: [Attribute Vision Transformer for UAV-Human Re-Identification](https://github.com/liyuke65535/MMVRAC-reid), **IEEE International Conference on Multimedia and Expo Workshops (ICMEW)), 2024**
+- Code: [Attribute Vision Transformer for UAV-Human Re-Identification](https://github.com/liyuke65535/MMVRAC-reid), **IEEE International Conference on Multimedia and Expo Workshops (ICMEW), 2024**
 <!-- ICMEW 2024 -->
 
 
